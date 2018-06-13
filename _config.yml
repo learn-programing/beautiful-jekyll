@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Learn programming with Piotr & Friends
+title: Programming in practice
 
 # Short description of your site
 description: Community project to share process of creating the real application.
