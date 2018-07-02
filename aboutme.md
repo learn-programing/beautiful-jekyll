@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: Who we are & what motivates us
+subtitle: Who we are, what motivates us
 ---
 
 <hr/>
