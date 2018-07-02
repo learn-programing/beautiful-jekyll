@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Who we are and what drives us to do it
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Piotr - one of the thousands of Software Engineers. It took me only 6 years to became one of the top 1% of developers in the world and work as Chief Software Architect for Crossover. I've spent last 2 years teaching people programming and with this blog I want to share my hints with wider audience so you also can be a successful Software Enginner.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+No - I'm not one of those fatty programmers not leaving his basement. I'm diver, marathon runner, mountain climber, traveller and programming mentor. From time to time I will share details of my hobbys to motivate you and show programmers are not so boring ;)
