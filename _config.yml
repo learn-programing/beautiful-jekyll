@@ -23,7 +23,7 @@ description: Community project to share process of creating the real application
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Me: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
